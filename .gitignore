@@ -1,0 +1,36 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+jarilo*.db
+brain/jarilo*.db
+jarilo_error.log
+brain/jarilo_error.log
+jarilo_state.db
+brain/jarilo_state.db
+test_output.txt
+
+# workspace and cache directories
+workspaces/*
+!workspaces/test_data/
+
+# editor/temp files
+.vscode/
+.idea/
+*.swp
+
+# node/npm/yarn artifacts
+node_modules/
+dist/
+package-lock.json
+npm-debug.log*
+
+# docker artifacts
+*.env.*
+docker-compose.override.yml
+
+# git-sensitive files you should keep private
+.env.local
+credentials.json
