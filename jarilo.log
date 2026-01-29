@@ -1,0 +1,171 @@
+2026-01-12 17:48:09 - uvicorn.error - INFO - [server.py:76] - Started server process [8332]
+2026-01-12 17:48:09 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:48:09 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:48:09 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:48:23 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:48:23 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:48:23 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:48:23 - uvicorn.error - INFO - [server.py:86] - Finished server process [8332]
+2026-01-12 17:48:45 - uvicorn.error - INFO - [server.py:76] - Started server process [9104]
+2026-01-12 17:48:45 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:48:45 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:48:45 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:49:31 - uvicorn.error - INFO - [server.py:76] - Started server process [21700]
+2026-01-12 17:49:31 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:49:31 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:49:31 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:49:43 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:49:43 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:49:43 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:49:43 - uvicorn.error - INFO - [server.py:86] - Finished server process [21700]
+2026-01-12 17:49:57 - uvicorn.error - INFO - [server.py:76] - Started server process [23072]
+2026-01-12 17:49:57 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:49:57 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:49:57 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:50:12 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:50:12 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:50:12 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:50:12 - uvicorn.error - INFO - [server.py:86] - Finished server process [23072]
+2026-01-12 17:50:37 - uvicorn.error - INFO - [server.py:76] - Started server process [31192]
+2026-01-12 17:50:37 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:50:37 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:50:37 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:51:00 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:51:00 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:51:00 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:51:00 - uvicorn.error - INFO - [server.py:86] - Finished server process [31192]
+2026-01-12 17:51:47 - uvicorn.error - INFO - [server.py:76] - Started server process [9788]
+2026-01-12 17:51:47 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:51:47 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:51:47 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:52:02 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:52:02 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:52:02 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:52:02 - uvicorn.error - INFO - [server.py:86] - Finished server process [9788]
+2026-01-12 17:52:27 - uvicorn.error - INFO - [server.py:76] - Started server process [25896]
+2026-01-12 17:52:27 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:52:27 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:55:16 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:55:17 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:55:17 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:55:17 - uvicorn.error - INFO - [server.py:86] - Finished server process [25896]
+2026-01-12 17:55:18 - uvicorn.error - INFO - [server.py:76] - Started server process [32688]
+2026-01-12 17:55:18 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:55:18 - uvicorn.error - ERROR - [on.py:134] - Traceback (most recent call last):
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\site-packages\uvicorn\server.py", line 78, in serve
+    await self.startup(sockets=sockets)
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\site-packages\uvicorn\server.py", line 89, in startup
+    await self.lifespan.startup()
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\site-packages\uvicorn\lifespan\on.py", line 54, in startup
+    await self.startup_event.wait()
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\asyncio\locks.py", line 212, in wait
+    await fut
+asyncio.exceptions.CancelledError
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 123, in run
+    raise KeyboardInterrupt()
+KeyboardInterrupt
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\site-packages\starlette\routing.py", line 686, in lifespan
+    await receive()
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\site-packages\uvicorn\lifespan\on.py", line 137, in receive
+    return await self.receive_queue.get()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\proti\AppData\Local\Programs\Python\Python312\Lib\asyncio\queues.py", line 158, in get
+    await getter
+asyncio.exceptions.CancelledError
+
+2026-01-12 17:55:19 - uvicorn.error - INFO - [server.py:76] - Started server process [29376]
+2026-01-12 17:55:19 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:55:19 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:55:33 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:55:33 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:55:33 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:55:33 - uvicorn.error - INFO - [server.py:86] - Finished server process [29376]
+2026-01-12 17:55:45 - uvicorn.error - INFO - [server.py:76] - Started server process [8992]
+2026-01-12 17:55:45 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:55:45 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:55:45 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:55:58 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:55:58 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:55:58 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:55:58 - uvicorn.error - INFO - [server.py:86] - Finished server process [8992]
+2026-01-12 17:56:43 - uvicorn.error - INFO - [server.py:76] - Started server process [30800]
+2026-01-12 17:56:43 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:56:43 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:56:43 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:57:41 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:57:41 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:57:41 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:57:41 - uvicorn.error - INFO - [server.py:86] - Finished server process [30800]
+2026-01-12 17:58:38 - uvicorn.error - INFO - [server.py:76] - Started server process [12424]
+2026-01-12 17:58:38 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:58:38 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:58:38 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:58:53 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:58:53 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:58:53 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:58:53 - uvicorn.error - INFO - [server.py:86] - Finished server process [12424]
+2026-01-12 17:59:04 - uvicorn.error - INFO - [server.py:76] - Started server process [1432]
+2026-01-12 17:59:04 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:59:04 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:59:04 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 17:59:22 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 17:59:22 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 17:59:22 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 17:59:22 - uvicorn.error - INFO - [server.py:86] - Finished server process [1432]
+2026-01-12 17:59:54 - uvicorn.error - INFO - [server.py:76] - Started server process [34400]
+2026-01-12 17:59:54 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 17:59:54 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 17:59:54 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 18:00:12 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 18:00:12 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 18:00:12 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 18:00:12 - uvicorn.error - INFO - [server.py:86] - Finished server process [34400]
+2026-01-12 18:00:25 - uvicorn.error - INFO - [server.py:76] - Started server process [12800]
+2026-01-12 18:00:25 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 18:00:25 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 18:00:25 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 18:00:53 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 18:00:54 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 18:00:54 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 18:00:54 - uvicorn.error - INFO - [server.py:86] - Finished server process [12800]
+2026-01-12 18:01:38 - uvicorn.error - INFO - [server.py:76] - Started server process [33992]
+2026-01-12 18:01:38 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 18:01:38 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 18:01:38 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8004 (Press CTRL+C to quit)
+2026-01-12 18:01:51 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 18:01:51 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 18:01:51 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 18:01:51 - uvicorn.error - INFO - [server.py:86] - Finished server process [33992]
+2026-01-12 18:07:39 - uvicorn.error - INFO - [server.py:76] - Started server process [35836]
+2026-01-12 18:07:39 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 18:07:39 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 18:07:39 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8009 (Press CTRL+C to quit)
+2026-01-12 18:07:55 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 18:07:55 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 18:07:55 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 18:07:55 - uvicorn.error - INFO - [server.py:86] - Finished server process [35836]
+2026-01-12 18:08:33 - uvicorn.error - INFO - [server.py:76] - Started server process [30988]
+2026-01-12 18:08:33 - uvicorn.error - INFO - [on.py:46] - Waiting for application startup.
+2026-01-12 18:08:33 - uvicorn.error - INFO - [on.py:60] - Application startup complete.
+2026-01-12 18:08:33 - uvicorn.error - INFO - [server.py:218] - Uvicorn running on http://127.0.0.1:8009 (Press CTRL+C to quit)
+2026-01-12 18:08:50 - uvicorn.error - INFO - [server.py:264] - Shutting down
+2026-01-12 18:08:50 - uvicorn.error - INFO - [on.py:65] - Waiting for application shutdown.
+2026-01-12 18:08:50 - uvicorn.error - INFO - [on.py:76] - Application shutdown complete.
+2026-01-12 18:08:50 - uvicorn.error - INFO - [server.py:86] - Finished server process [30988]

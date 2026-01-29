@@ -1,0 +1,11 @@
+{
+  "name": "data_analyst_plugin",
+  "image_name": "data-analyst-plugin",
+  "description": "A plugin to analyze data and generate visualizations using Python, Pandas, and Matplotlib.",
+  "tools": {
+    "execute_python_script": {
+      "description": "Executes a given Python script to perform data analysis. The script has access to files in the workspace.",
+      "handler": "run.sh"
+    }
+  }
+}

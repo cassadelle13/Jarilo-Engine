@@ -1,0 +1,220 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "rebuild-agent",
+			"type": "shell",
+			"command": "docker-compose build agent"
+		},
+		{
+			"label": "test-code",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "restart-brain",
+			"type": "shell",
+			"command": "docker-compose restart brain"
+		},
+		{
+			"label": "test-code-2",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "test-planner",
+			"type": "shell",
+			"command": "python test_planner_direct.py"
+		},
+		{
+			"label": "restart-brain-2",
+			"type": "shell",
+			"command": "docker-compose restart brain"
+		},
+		{
+			"label": "test-code-final",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "test-with-fallback",
+			"type": "shell",
+			"command": "docker-compose restart brain && sleep 2 && python test_code_execution.py"
+		},
+		{
+			"label": "restart-brain-3",
+			"type": "shell",
+			"command": "docker-compose restart brain"
+		},
+		{
+			"label": "test-fallback",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "restart-brain-debug",
+			"type": "shell",
+			"command": "docker-compose restart brain"
+		},
+		{
+			"label": "test-debug",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "rebuild-brain",
+			"type": "shell",
+			"command": "docker-compose build brain"
+		},
+		{
+			"label": "restart-services",
+			"type": "shell",
+			"command": "docker-compose up -d"
+		},
+		{
+			"label": "final-test",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "check-logs",
+			"type": "shell",
+			"command": "docker-compose logs brain --tail 10"
+		},
+		{
+			"label": "rebuild-test",
+			"type": "shell",
+			"command": "docker-compose build brain && docker-compose up -d"
+		},
+		{
+			"label": "build-brain",
+			"type": "shell",
+			"command": "docker-compose build brain"
+		},
+		{
+			"label": "start-services",
+			"type": "shell",
+			"command": "docker-compose up -d"
+		},
+		{
+			"label": "test-system",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "check-brain-logs",
+			"type": "shell",
+			"command": "docker-compose logs brain --tail 20"
+		},
+		{
+			"label": "rebuild-brain-final",
+			"type": "shell",
+			"command": "docker-compose build brain"
+		},
+		{
+			"label": "restart-services-final",
+			"type": "shell",
+			"command": "docker-compose up -d"
+		},
+		{
+			"label": "final-test",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "check-logs-final",
+			"type": "shell",
+			"command": "docker-compose logs brain --tail 20"
+		},
+		{
+			"label": "rebuild-and-test",
+			"type": "shell",
+			"command": "docker-compose build brain && docker-compose up -d"
+		},
+		{
+			"label": "build-brain-debug",
+			"type": "shell",
+			"command": "docker-compose build brain"
+		},
+		{
+			"label": "up-services-debug",
+			"type": "shell",
+			"command": "docker-compose up -d"
+		},
+		{
+			"label": "test-with-debug",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "check-debug-logs",
+			"type": "shell",
+			"command": "docker-compose logs brain --tail 30"
+		},
+		{
+			"label": "rebuild-test-final",
+			"type": "shell",
+			"command": "docker-compose build brain && docker-compose up -d && python test_code_execution.py"
+		},
+		{
+			"label": "build-brain-final",
+			"type": "shell",
+			"command": "docker-compose build brain"
+		},
+		{
+			"label": "start-services-final",
+			"type": "shell",
+			"command": "docker-compose up -d"
+		},
+		{
+			"label": "test-final",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "check-final-logs",
+			"type": "shell",
+			"command": "docker-compose logs brain --tail 50"
+		},
+		{
+			"label": "build-brain-last",
+			"type": "shell",
+			"command": "docker-compose build brain"
+		},
+		{
+			"label": "final-test-run",
+			"type": "shell",
+			"command": "docker-compose up -d && sleep 2 && python test_code_execution.py"
+		},
+		{
+			"label": "start-last",
+			"type": "shell",
+			"command": "docker-compose up -d"
+		},
+		{
+			"label": "test-last",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		},
+		{
+			"label": "logs-last",
+			"type": "shell",
+			"command": "docker-compose logs brain --tail 50"
+		},
+		{
+			"label": "build-debug",
+			"type": "shell",
+			"command": "docker-compose build brain"
+		},
+		{
+			"label": "start-debug",
+			"type": "shell",
+			"command": "docker-compose up -d"
+		},
+		{
+			"label": "test-debug-final",
+			"type": "shell",
+			"command": "python test_code_execution.py"
+		}
+	]
+}

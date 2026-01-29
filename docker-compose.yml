@@ -1,0 +1,37 @@
+services:
+  brain:
+    build:
+      context: ./brain
+      dockerfile: Dockerfile
+    ports:
+      - "8004:8000"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
+      - ./brain/src:/app/src
+      - ./plugins:/app/plugins
+      - ./workspaces:/host_workspaces
+      - .:/host_workspace
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - HOST_WORKSPACE_ROOT=/host_workspaces
+      - PYTHONPATH=/app/src
+    networks:
+      - jarilo-net
+    stdin_open: true
+    tty: true
+  agent:
+    build:
+      context: ./agents/jarilo-agent
+      dockerfile: Dockerfile
+    volumes:
+      - ./workspaces:/host_workspaces
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    networks:
+      - jarilo-net
+    stdin_open: true
+    tty: true
+
+networks:
+  jarilo-net:
+    driver: bridge

@@ -1,0 +1,14 @@
+{
+  "name": "vite_plugin",
+  "description": "A plugin to create and manage modern web applications using Vite.",
+  "tools": {
+    "create_app": {
+      "description": "Creates a new web application using a specified Vite template (e.g., react, vue).",
+      "handler": "run.sh"
+    },
+    "install_dependencies": {
+      "description": "Installs npm dependencies into a Vite project.",
+      "handler": "run.sh"
+    }
+  }
+}

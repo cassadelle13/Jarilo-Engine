@@ -1,0 +1,42 @@
+# requirements.in - базовые зависимости для pip-tools
+# Core FastAPI Framework
+fastapi
+uvicorn[standard]
+
+# Data Validation and Settings
+pydantic
+pydantic-settings
+
+# Database
+sqlalchemy[asyncio]
+alembic
+aiosqlite
+
+# Cryptography for Secret Encryption
+cryptography
+
+# Containerization and Isolation
+docker
+
+# HTTP Client for Testing
+requests
+
+# OpenAI API Client
+openai
+httpx
+
+# LangChain and LangServe for streaming
+langchain
+langchain-openai
+langserve[all]
+langgraph
+
+# Structured Logging
+loguru
+
+# CLI Framework
+click
+typer
+
+# Pip-tools for dependency management
+pip-tools
